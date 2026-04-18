@@ -1,4 +1,4 @@
-# ISO 27001:2022 Toolkit
+# ISO-27001-Risk-Gap-Analysis
 
 This repository contains a comprehensive toolkit designed to help organizations implement the ISO 27001:2022 Information Security Management System (ISMS). The toolkit includes templates, policies, plans, and checklists that align with the ISO 27001:2022 standards.
 
@@ -19,7 +19,7 @@ This repository contains a comprehensive toolkit designed to help organizations 
 
 ## Overview
 
-The ISO 27001:2022 Toolkit is designed to simplify the process of achieving compliance with the ISO 27001:2022 standard. It provides structured templates and guidance to help organizations establish, implement, maintain, and continually improve an information security management system (ISMS).
+The ISO-27001-Risk-Gap-Analysis is designed to simplify the process of achieving compliance with the ISO 27001:2022 standard. It provides structured templates and guidance to help organizations establish, implement, maintain, and continually improve an information security management system (ISMS).
 
 ## Key Features
 
@@ -66,33 +66,5 @@ The internal audit plan outlines how the organization will audit the ISMS to ens
 ### 12. Return on Investment (ROI) Analysis
 A financial analysis that evaluates the costs versus the benefits of ISO 27001 implementation. It helps justify the investment to stakeholders.
 
-## Usage
 
-1. **Download the Toolkit**: Clone or download the repository to access all templates and documents.
-   
-      You can clone the repository using the following command:
-   
-   ```bash
-   git clone https://github.com/yourusername/ISO-27001-2022-Toolkit.git
-     
-2. **Customize the Templates**: Adapt the templates to your organization’s specific needs.
-3. **Follow the Structure**: Use the provided structure to guide your ISO 27001 implementation process.
-4. **Review and Update**: Regularly review and update the documents to ensure compliance with the ISO 27001:2022 standard.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have suggestions or improvements!
-
----
-
-## Contact
-
-For any questions or further assistance, please reach out to pehanindira@gmail.com.
+For any questions or further assistance, please reach out to swasthikk.bs@gmail.com
